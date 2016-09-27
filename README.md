@@ -1,10 +1,7 @@
 # 03-CalculateAgeInSeconds
 
 To see a video of the program on YouTube :
-
-
-To try this program you can download it here  ( Windows x86 ) :
-https://drive.google.com/open?id=0B6-FXlVjTCOTNkJqZXh0aDlKU0E
+https://www.youtube.com/watch?v=8p1yYs9fqiY&index=4&list=PLNhHJGjZEVWTmN39iCLyYCH_OrYOScJrC
 
 
 ---------
