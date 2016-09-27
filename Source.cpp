@@ -1,9 +1,9 @@
 /*************************************************
-			03 Calculate age in seconds
+		03 Calculate age in seconds
 	- This program for : Calculate age.
 	- Author : Ibrahim Mohamed Abdul-Meged.
-		 	 : facebook.com/Ibrahiim.Pasha
-			 : github.com/Ibrahiim-Pasha
+		 : facebook.com/Ibrahiim.Pasha
+		 : github.com/Ibrahiim-Pasha
 	- Date : 27/9/2016 - 2:51 AM
 
 *************************************************/
